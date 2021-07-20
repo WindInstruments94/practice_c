@@ -1,9 +1,9 @@
 /* shortcut functions for arrays
 
 NOTE:
-arrays in C are passed to functions as pointers and do not
-retain their size – a size parameter is passed in along
-with the array */
+Arrays in C are passed to functions as pointers and do not
+retain their length – a length parameter is passed in along
+with the array. */
 
 int getLargestElement(int array[], int length)
 {
