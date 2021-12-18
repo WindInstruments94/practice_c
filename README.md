@@ -1,3 +1,3 @@
-# practice_c
+# C helpers
 
-Some small C programs and functions
+Helper functions for arrays and hashtables
