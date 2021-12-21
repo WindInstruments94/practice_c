@@ -1,9 +1,4 @@
-/* function to show result of hashing
-
-NOTE:
-arrays in C are passed to functions as pointers and do not
-retain their length – a length parameter (tableRows) is passed in along
-with the array */
+/* Function to show distribution of hashing */
 
 //include <stdio.h>
 
