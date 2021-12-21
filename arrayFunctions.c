@@ -1,10 +1,3 @@
-/* shortcut functions for arrays
-
-NOTE:
-Arrays in C are passed to functions as pointers and do not
-retain their length – a length parameter is passed in along
-with the array. */
-
 int max(int array[], int length)
 {
     int largest = array[0];
