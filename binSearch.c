@@ -1,9 +1,4 @@
-/* binary search of a sorted array
-
-NOTE:
-Arrays in C are passed to functions as pointers and do not
-retain their length – a length parameter is passed in along
-with the array. */
+/* binary search of a sorted array */
 
 // #include <stdbool.h>
 // #include <string.h>
